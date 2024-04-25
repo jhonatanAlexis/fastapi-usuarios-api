@@ -1,3 +1,5 @@
+#dependencias de lo que vamos a usar en el proyecto
+
 fastapi
 motor
 pydantic
